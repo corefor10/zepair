@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-expo-app *)",
+      "Bash(npx expo *)",
+      "Bash(Get-ChildItem -Recurse -File)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Read(//c/Users/rizbk/ocuments/zepairf/app/screens/**)"
+    ]
+  }
+}
